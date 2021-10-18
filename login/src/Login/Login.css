@@ -1,0 +1,98 @@
+body{
+    background-color: blueviolet;
+}
+
+.form {
+    margin: 0 auto;
+    margin-bottom: 150px ;
+    margin-top: 15%;
+    background-color: whitesmoke;
+    width: 650px;
+    height: 300px;
+    border-radius: 2%;
+    box-shadow: 3px 3px grey;
+    padding: 45px;
+}
+
+.iconelogin{
+    width: 25%;
+    margin-right: 60%;
+    
+ 
+
+
+ 
+
+}
+
+.p1 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 60%;
+    
+
+   
+}
+
+.usuario{
+      
+     position: relative;
+     bottom: 55%;
+
+    
+    
+   
+
+} 
+
+
+div input {
+    padding: 13px;
+    width: 230px;
+    height: 20px;
+    border-radius: 40px;
+    border: 3px solid rgb(226, 226, 226);
+    background-color: rgb(226, 226, 226); 
+    color: rgb(32, 30, 30) !important; 
+    font-weight: bold;
+    margin-left: 60%;
+}
+
+
+.senha {
+
+    padding: 15px;
+    margin-left: 2%;
+    position: relative;
+     bottom: 54%;
+    
+
+
+}
+
+
+.botao{
+    font-size: 1em;
+    color: white;
+    margin-top: 20px;
+    width: 250px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: rgb(101, 235, 48);
+    border: 3px solid rgb(101, 235, 48);
+    margin-left: 61%;
+    margin-top: 1%;
+    position: relative;
+    bottom: 55%;
+}
+
+
+
+.esqueceu{
+    font-size: 0.8em;
+    color: darkblue;
+    margin-left: 60%;
+    margin-top: 1%;
+    position: relative;
+    bottom: 52%;
+}
